@@ -9,14 +9,14 @@
 
 ## Automation Test Engineer
 
-I am an Automation Test Engineer with 5 years of experience in Software Industry.
+I am an Automation Test Engineer with 2 years of experience in Software Industry.
 
 * 🌍  I'm based in Ho Chi Minh City, Viet Nam
-* ✉️  You can contact me at [lhlhai.spkt@gmail.com](mailto:lhlhai.spkt@gmail.com)
+* ✉️  You can contact me at [anh.nt6798@gmail.com](mailto:anh.nt6798@gmail.com) or [tuananhnguyen6798@gmail.com](mailto:tuananhnguyen6798@gmail.com)
 * 🧠  Currently I'm learning DevOps
 * 🤝  I'm open to collaborating on interesting projects
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lhlhai&label=Profile%20views&color=0e75b6&style=flat" alt="lhlhai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TuanAnhKaiTou&label=Profile%20views&color=0e75b6&style=flat" alt="TuanAnhKaiTou" /> </p>
 
 
 # Skills 💪🏻
@@ -51,10 +51,8 @@ I am an Automation Test Engineer with 5 years of experience in Software Industry
 <div align="center">
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40" width="52" alt=""  />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" height="40" width="52" alt=""  />
-  <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" height="40" width="52" alt=""  />
   <span>&nbsp; &nbsp; &nbsp; </span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40" width="52" alt=""  />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="40" width="52" alt=""  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40" width="52" alt=""  />
 </div>
 
@@ -81,11 +79,11 @@ I am an Automation Test Engineer with 5 years of experience in Software Industry
 
 # Socials 🤳🏻
 <p align="left">
-<a href="https://linkedin.com/in/hai-h-l-le-439863139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hai-h-l-le-439863139" height="30" width="40" /></a>
-<a href="https://fb.com/lhlhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lhlhai" height="30" width="40" /></a>
-<a href="https://instagram.com/hailehuynhlong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hailehuynhlong" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anh-nguyen-tuan-848ab9247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anh-nguyen-tuan-848ab9247" height="30" width="40" /></a>
+<a href="https://fb.com/kaitou.67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaitou.67" height="30" width="40" /></a>
+<a href="https://instagram.com/anh_nt67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anh_nt67" height="30" width="40" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/TuanAnhKaiTou/TuanAnhKaiTou/2c5f1991e7df28b44b67a70ade7b21881fbb5ee9/snake.svg" alt="Snake animation" />
+<!-- <img src="/Users/anhnt/Desktop/DoSomethingXam/actions-runner/_work/TuanAnhKaiTou/TuanAnhKaiTou/dist/snake.svg" alt="Snake animation" /> -->
 
 ###
